@@ -1,0 +1,6 @@
+@TimCoreyAPI01_HostAddress = http://localhost:5282
+
+GET {{TimCoreyAPI01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
